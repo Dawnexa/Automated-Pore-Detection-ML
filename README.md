@@ -89,7 +89,7 @@ We welcome contributions of all kinds and are grateful for the time you spend to
 
 ### Reporting Bugs
 
-If you find a bug, please first check our [issue list](https://github.com/Dawnexa/P4P-Machine-Learning-Project/issues) to see if someone else has already reported it. If not, you can create a new issue, providing as many details as possible about the bug.
+If you find a bug, please first check our [issue list](https://github.com/Dawnexa/Automated-Pore-Detection-ML/issues) to see if someone else has already reported it. If not, you can create a new issue, providing as many details as possible about the bug.
 
 ### Suggesting Enhancements
 
